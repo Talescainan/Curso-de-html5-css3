@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT" />
 # 🌐 Curso de HTML5 e CSS3
 
 <p align="center">
@@ -36,3 +37,7 @@ Se quiser clonar este repositório e rodar os exercícios na sua máquina, siga 
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/Talescainan/Curso-de-html5-css3.git](https://github.com/Talescainan/Curso-de-html5-css3.git)
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o ficheiro [LICENSE](LICENSE) para mais detalhes.
