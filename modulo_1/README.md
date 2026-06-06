@@ -16,8 +16,8 @@ Acompanhamento das aulas e conceitos absorvidos:
 - [x] 09 - Listas HTML
 - [x] 10 - Ligações em toda parte
 - [x] 11 - Imagens dinâmicas, áudios e vídeos
-- [ ] 12 - Trabalhando com estilos (Próxima aula 🕒)
-- [ ] 13 - Cores
+- [x] 12 - Trabalhando com estilos
+- [ ] 13 - Cores (Próxima aula 🕒)
 - [ ] 14 - Fontes
 - [ ] 15 - Seletores personalizados
 - [ ] 16 - Modelo de Caixas
