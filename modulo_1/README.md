@@ -17,14 +17,8 @@ Acompanhamento das aulas e conceitos absorvidos:
 - [x] 10 - Ligações em toda parte
 - [x] 11 - Imagens dinâmicas, áudios e vídeos
 - [x] 12 - Trabalhando com estilos
-- [ ] 13 - Cores (Próxima aula 🕒)
-- [ ] 14 - Fontes
-- [ ] 15 - Seletores personalizados
-- [ ] 16 - Modelo de Caixas
-- [ ] 17 - Primeiro mini-projeto
-- [ ] 18 - Aprendendo Git e GitHub
-- [ ] 19 - Imagens de Fundo
-- [ ] 20 - Mini-projeto Cordel
+
+## Módulo 1 CONCLUÍDO!
 
 ---
 ## 🛠️ Ferramentas Utilizadas
