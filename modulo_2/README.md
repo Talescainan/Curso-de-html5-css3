@@ -42,7 +42,7 @@ O repositório está organizado da seguinte forma:
 
 O maior marco desse módulo foi o desenvolvimento de um site completo, responsivo e com design focado na experiência do usuário, contando a história do robozinho do Android.
 
-> 🌐 **[Clique aqui para visualizar o projeto rodando no GitHub Pages](https://github.com/Talescainan)**
+> 🌐 **O PROJETO SÓ SERÁ INICIADO QUANDO EU CHEGAR NAS AULAS FINAIS!**
 
 ---
 
